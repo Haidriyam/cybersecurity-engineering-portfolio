@@ -63,8 +63,8 @@
 
 /* Academic print stylesheet */
 @page {
-  margin: 14mm 15mm;
-  size: auto;
+  size: A4 portrait;
+  margin: 14mm 14mm 14mm 14mm;
 }
 
 @media print {
@@ -96,6 +96,8 @@
   * {
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
   }
 
   .print-page {

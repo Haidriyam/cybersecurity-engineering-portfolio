@@ -10,353 +10,409 @@
 endobj
 4 0 obj
 <<
-/Length 9395
+/Length 11229
 >>
 stream
 0.5670000000000001 w
 0 G
 BT
-/F2 18 Tf
-20.6999999999999993 TL
+/F2 16.5 Tf
+18.9749999999999979 TL
 0.067 g
-42.5196850393700814 790.8663779527558972 Td
+39.6850393700787407 802.2049606299212883 Td
 (MUHAMMAD ADEEL SAJJAD) Tj
 ET
-BT
-/F2 10 Tf
-11.5 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 773.8585039370078675 Td
-(SYSTEMS, INFRASTRUCTURE & CYBER-PHYSICAL SECURITY ENGINEER · B.SC. ELECTRICAL ENGINEERING — POWER) Tj
-ET
-BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 759.6852755905511003 Td
-(Email: eng.adeelhaider@gmail.com   |   GitHub: https://github.com/Haidriyam   |   Location: Dubai, UAE) Tj
-ET
-BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 748.346692913385823 Td
-(GPG Fingerprint: 9E4F 8C2B 117A 3D90 5F1E 8A24 C37B 4290 88DF 10E5) Tj
-ET
-0.07 G
-1.7007874015748032 w
-42.5196850393700814 739.8427559055118081 m
-552.7559055118110791 739.8427559055118081 l
-S
 BT
 /F2 9.5 Tf
 10.9249999999999989 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 717.1655905511811397 Td
+39.6850393700787407 786.614409448818833 Td
+(SYSTEMS, INFRASTRUCTURE & CYBER-PHYSICAL SECURITY ENGINEER) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.157 g
+39.6850393700787407 774.7088976377953031 Td
+(B.Sc. ELECTRICAL ENGINEERING — POWER) Tj
+ET
+BT
+/F1 8.2 Tf
+9.4299999999999979 TL
+0.333 g
+39.6850393700787407 761.952992125984224 Td
+(Email: eng.adeelhaider@gmail.com   •   Location: Dubai, UAE   •   GitHub: github.com/Haidriyam   •   GPG: 9E4F 8C2B 117A 3D90 5F1E...) Tj
+ET
+0.07 G
+1.4173228346456694 w
+39.6850393700787407 751.1813385826770855 m
+555.5905511811024553 751.1813385826770855 l
+S
+BT
+/F2 9.2 Tf
+10.5799999999999983 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 731.0553543307086102 Td
 (1. PROFILE / SUMMARY) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 712.9136220472440755 m
-552.7559055118110791 712.9136220472440755 l
+39.6850393700787407 727.6537795275589815 m
+555.5905511811024553 727.6537795275589815 l
 S
 BT
-/F1 9 Tf
-10.3499999999999996 TL
-0.2 g
-42.5196850393700814 700.15771653543311 Td
-(Systems & Infrastructure Engineer with a foundational degree in Electrical Engineering \(Power Systems\) and over 8 years of) Tj
-T* (hands-on enterprise infrastructure experience. Rigorous training in electromagnetic field modeling, resonant power electronics,) Tj
-T* (and high-voltage transmission, combined with deep operational expertise in deterministic kernel telemetry pipelines, bare-metal) Tj
-T* (infrastructure automation, and industrial control systems \(SCADA\) network boundary defense.) Tj
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.176 g
+39.6850393700787407 715.748267716535338 Td
+(Systems & Infrastructure Engineer with a foundational degree in Electrical Engineering \(Power Systems\) and over 8 years of enterprise) Tj
+T* (infrastructure experience. Rigorous training in electromagnetic field modeling, resonant power electronics, and high-voltage transmission,) Tj
+T* (combined with deep operational expertise in deterministic kernel telemetry pipelines, bare-metal infrastructure automation, and industrial) Tj
+T* (control systems \(SCADA\) network boundary defense.) Tj
 ET
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F2 9.2 Tf
+10.5799999999999983 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 638.3624409448818824 Td
+39.6850393700787407 656.2207086614173477 Td
 (2. RESEARCH INTERESTS) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 634.1104724409448181 m
-552.7559055118110791 634.1104724409448181 l
+39.6850393700787407 652.819133858267719 m
+555.5905511811024553 652.819133858267719 l
 S
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 8.3 Tf
+9.5449999999999999 TL
 0.09 0.29 0.357 rg
-48.1889763779527627 621.3545669291338527 Td
+39.6850393700787407 640.9136220472440755 Td
 (•  Resilient Cyber-Physical Systems \(CPS\): ) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-48.1889763779527627 610.0159842519684616 Td
-(Failure modes & attack surfaces where unauthenticated industrial protocols \(Modbus-TCP, DNP3\) couple with physical power) Tj
-T* (converter dynamics and protection relays.) Tj
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+209.586039370078737 640.9136220472440755 Td
+(Analyzing failure modes & attack surfaces where unauthenticated industrial protocols) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+51.0236220472441033 630.1419685039369369 Td
+(\(Modbus-TCP, DNP3\) couple with physical power converter dynamics and protection relays.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
 0.09 0.29 0.357 rg
-48.1889763779527627 593.0081102362204319 Td
+39.6850393700787407 617.6695275590550409 Td
 (•  Smart Grid Security & Anomaly Detection: ) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-48.1889763779527627 581.6695275590550409 Td
-(Deterministic packet inspection, state-estimation defense against false data injection \(FDI\), and IEC 62443 / Purdue reference) Tj
-T* (architecture enforcement.) Tj
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+215.4790393700787661 617.6695275590550409 Td
+(Deterministic packet inspection, state-estimation defense against false data injection \(FDI\),) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+51.0236220472441033 606.8978740157480161 Td
+(and IEC 62443 / Purdue reference architecture enforcement.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
 0.09 0.29 0.357 rg
-48.1889763779527627 564.6616535433070112 Td
+39.6850393700787407 594.42543307086612 Td
 (•  Resonant Inductive Coupling: ) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-48.1889763779527627 553.3230708661417339 Td
-(High-Q magnetic resonance link optimization, mutual inductance parameter extraction, and zero-voltage-switching \(ZVS\) power) Tj
-T* (electronics.) Tj
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+166.758039370078734 594.42543307086612 Td
+(High-Q magnetic resonance link optimization, mutual inductance parameter extraction, and) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+51.0236220472441033 583.6537795275589815 Td
+(zero-voltage-switching \(ZVS\) power electronics.) Tj
+ET
+BT
+/F2 8.3 Tf
+9.5449999999999999 TL
 0.09 0.29 0.357 rg
-48.1889763779527627 536.3151968503937042 Td
+39.6850393700787407 571.1813385826770855 Td
 (•  Distributed Testbed Infrastructure: ) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-48.1889763779527627 524.9766141732283131 Td
-(Hardware-in-the-loop \(HIL\) environments, kernel-level zero-drop ring buffering, and reproducible bare-metal infrastructure) Tj
-T* (orchestration.) Tj
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+185.1010393700787517 571.1813385826770855 Td
+(Hardware-in-the-loop \(HIL\) environments, kernel-level zero-drop ring buffering, and reproducible) Tj
 ET
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F1 8.3 Tf
+9.5449999999999999 TL
+0.176 g
+51.0236220472441033 560.4096850393700606 Td
+(bare-metal infrastructure orchestration.) Tj
+ET
+BT
+/F2 9.2 Tf
+10.5799999999999983 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 499.4648031496062686 Td
-(3. EDUCATION) Tj
+39.6850393700787407 540.5671653543306547 Td
+(3. EDUCATION & ACADEMIC FOUNDATION) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 495.2128346456692043 m
-552.7559055118110791 495.2128346456692043 l
+39.6850393700787407 537.1655905511810261 m
+555.5905511811024553 537.1655905511810261 l
 S
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F2 8.8 Tf
+10.1199999999999992 TL
 0.067 g
-42.5196850393700814 482.4569291338582389 Td
+39.6850393700787407 525.2600787401573825 Td
 (Bachelor of Science in Electrical Engineering — Power Systems) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.09 0.29 0.357 rg
-489.3459055118110541 482.4569291338582389 Td
+492.9265511811024112 525.2600787401573825 Td
 (Graduated 2016) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 469.7010236220471597 Td
-(The Islamia University of Bahawalpur · Pakistan) Tj
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+39.6850393700787407 513.354566929133739 Td
+(The Islamia University of Bahawalpur — Pakistan   •   Specialization: Power Systems & Electrical Infrastructure   •   Status: Degree Conferred) Tj
+T* (\(2016\)) Tj
 ET
+0.09 0.29 0.36 RG
+0.9921259842519685 w
+39.6850393700787407 491.2443307086613231 515.9055118110236435 -60.0944881889763849 re
+S
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 458.3624409448818255 Td
-(Specialization: Power Systems & Electrical Infrastructure   |   Academic Standing / Status: Degree Conferred \(2016\)) Tj
-ET
-0.98 0.98 0.97 rg
-0.9 0.9 0.88 RG
-42.5196850393700814 444.1892125984251152 510.2362204724410049 -51.0236220472441033 re
-B
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 8.2 Tf
+9.4299999999999979 TL
 0.09 0.29 0.357 rg
-51.0236220472441033 431.4333070866140929 Td
-(Capstone Thesis: "Resonant Inductive Wireless Power Transmission System") Tj
+51.0236220472441033 478.7718897637794271 Td
+(Capstone Thesis: "Resonant Inductive Wireless Power Transmission System" \(Aug 2015 — Jun 2016, Grade A\)) Tj
 ET
 BT
 /F1 7.8 Tf
 8.9699999999999989 TL
-0.267 g
-51.0236220472441033 418.6774015748030706 Td
-(Modeled Maxwell's equations and coupled-mode theory for near-field electromagnetic energy transfer over variable air gaps. Designed, wound,) Tj
-T* (and tuned helical magnetic induction coils. Developed primary and secondary resonant LC tanks to cancel reactive power and maximize power) Tj
+0.216 g
+51.0236220472441033 466.8663779527558404 Td
+(Modeled Maxwell's equations and coupled-mode theory for near-field electromagnetic energy transfer over variable air gaps. Designed,) Tj
+T* (wound, and tuned helical magnetic induction coils. Developed primary and secondary resonant LC tanks to cancel reactive power and) Tj
+T* (maximize power factor. Fabricated switching driver hardware and evaluated transmission efficiency curves, Q factors, and thermal behavior) Tj
+T* (using DSO oscilloscopes and RF instruments. Authored thesis documentation followed by an examination-board defense.) Tj
 ET
 BT
-/F1 7.5 Tf
-8.625 TL
-0.471 g
-51.0236220472441033 400.2522047244093528 Td
-(Supervisor / Advisor: undefined) Tj
-ET
-BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F2 9.2 Tf
+10.5799999999999983 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 373.3230708661416202 Td
-(4. ENGINEERING EXPERIENCE) Tj
+39.6850393700787407 412.4411811023621226 Td
+(4. PROFESSIONAL ENGINEERING EXPERIENCE) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 369.0711023622046127 m
-552.7559055118110791 369.0711023622046127 l
+39.6850393700787407 409.0396062992125508 m
+555.5905511811024553 409.0396062992125508 l
 S
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F2 8.6 Tf
+9.8899999999999988 TL
 0.067 g
-42.5196850393700814 356.3151968503935905 Td
+39.6850393700787407 397.1340944881889641 Td
 (Senior IT & Infrastructure Systems Manager) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 8.2 Tf
+9.4299999999999979 TL
 0.09 0.29 0.357 rg
-471.4959055118110314 356.3151968503935905 Td
+477.1985511811024594 397.1340944881889641 Td
 (Nov 2025 — Present) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 343.5592913385825682 Td
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+39.6850393700787407 385.7955118110236299 Td
 (Urban 411 Design Products Trading · Systems & Infrastructure Operations — Dubai, UAE) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-42.5196850393700814 332.220708661417234 Td
-(Directing enterprise IT and cloud systems infrastructure with complete lifecycle management across multi-tier hosting, automated) Tj
-T* (telemetry pipelines, perimeter hardening, and automated CI/CD deployments.) Tj
-ET
-BT
-/F2 7.8 Tf
+/F1 7.8 Tf
 8.9699999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 305.0081102362204319 Td
-(KEY TECHNICAL CONTRIBUTIONS:) Tj
+0.176 g
+39.6850393700787407 375.5907874015748007 Td
+(Directing enterprise IT and cloud systems infrastructure with complete lifecycle management across multi-tier hosting, automated telemetry pipelines,) Tj
+T* (perimeter hardening, and automated CI/CD deployments.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 295.086850393700729 Td
-(•  Achieved 40%+ reduction in server response latency through reverse-proxy caching, database query optimization, and kernel parameter) Tj
-T* (tuning.) Tj
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 351.7797637795275705 Td
+(•  Achieved 40%+ reduction in server response latency through reverse-proxy caching, database query optimization, and kernel parameter tuning.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 271.8427559055118081 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 339.8742519685039838 Td
 (•  Enforced a 99.8% operational SLA across multi-tier infrastructure by eliminating single points of failure and automating recovery.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 258.8033858267716596 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 327.9687401574803971 Td
 (•  Deployed centralized Wazuh SIEM telemetry pipeline ingesting host events and audit logs with automated threat detection rules.) Tj
 ET
 BT
-/F1 7.5 Tf
-8.625 TL
-0.392 g
-42.5196850393700814 241.5120472440944468 Td
+/F1 7.4 Tf
+8.5099999999999998 TL
+0.333 g
+39.6850393700787407 316.0632283464567536 Td
 (Systems: Wazuh HIDS/SIEM/XDR Security Platform, Linux Distributions \(Ubuntu Server, Debian, RHEL\), Nginx & Apache Web Servers, GitHub Actions &) Tj
 T* (Bash CI/CD Workflows, Certbot & Let's Encrypt Automated SSL/TLS, Multi-Tier Cloud Hosting \(AWS EC2, Lightsail\)) Tj
 ET
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F2 8.6 Tf
+9.8899999999999988 TL
 0.067 g
-42.5196850393700814 213.7325196850392786 Td
+39.6850393700787407 287.149842519685194 Td
 (IT & Infrastructure Operations Manager) Tj
 ET
 BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 8.2 Tf
+9.4299999999999979 TL
 0.09 0.29 0.357 rg
-502.095905511811111 213.7325196850392786 Td
+506.7185511811023844 287.149842519685194 Td
 (2020 — 2025) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 200.9766141732283131 Td
+/F1 8 Tf
+9.1999999999999993 TL
+0.314 g
+39.6850393700787407 275.811259842519803 Td
 (TECDEAL General Trading LLC · Infrastructure & Operations — Dubai, UAE) Tj
 ET
 BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-42.5196850393700814 189.6380314960629221 Td
-(Led infrastructure architecture and systems operations across distributed commercial hubs, securing local network topologies, gateway) Tj
-T* (firewalls, database clusters, and virtualization environments.) Tj
-ET
-BT
-/F2 7.8 Tf
+/F1 7.8 Tf
 8.9699999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 162.42543307086612 Td
-(KEY TECHNICAL CONTRIBUTIONS:) Tj
+0.176 g
+39.6850393700787407 265.6065354330710306 Td
+(Led infrastructure architecture and systems operations across distributed commercial hubs, securing local network topologies, gateway firewalls,) Tj
+T* (database clusters, and virtualization environments.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 152.5041732283464171 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 241.7955118110237436 Td
 (•  Segmented distributed commercial hub networks using VLANs and gateway ACLs, completely isolating sensitive transactional servers.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 139.4648031496062686 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 229.8900000000001 Td
 (•  Optimized relational database query execution plans and index trees, eliminating peak-hour query bottlenecks.) Tj
+ET
+BT
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 217.9844881889765702 Td
+(•  Implemented automated multi-region snapshot failover workflows ensuring rapid recovery in the event of local infrastructure disruption.) Tj
+ET
+BT
+/F1 7.4 Tf
+8.5099999999999998 TL
+0.333 g
+39.6850393700787407 206.0789763779529267 Td
+(Systems: Gateway Firewalls & Multi-VLAN Subnetting, Server Virtualization Environments, Relational Database Clusters \(MySQL / PostgreSQL\), Multi-Region) Tj
+T* (Cloud Snapshot Pipelines, Hardware Access Control & Bastion Proxies) Tj
+ET
+BT
+/F2 8.6 Tf
+9.8899999999999988 TL
+0.067 g
+39.6850393700787407 177.1655905511813671 Td
+(Systems & Web Development Engineer) Tj
+ET
+BT
+/F2 8.2 Tf
+9.4299999999999979 TL
+0.09 0.29 0.357 rg
+506.7185511811023844 177.1655905511813671 Td
+(2016 — 2019) Tj
 ET
 BT
 /F1 8 Tf
 9.1999999999999993 TL
-0.2 g
-48.1889763779527627 126.42543307086612 Td
-(•  Implemented automated multi-region snapshot failover workflows ensuring rapid recovery in the event of local infrastructure disruption.) Tj
+0.314 g
+39.6850393700787407 165.8270078740159761 Td
+(Techvision · Systems & Web Engineering — Bahawalpur, Pakistan) Tj
+ET
+BT
+/F1 7.8 Tf
+8.9699999999999989 TL
+0.176 g
+39.6850393700787407 155.6222834645672037 Td
+(Managed production Linux LAMP/LEMP server environments, performing routine security audits, system patching, automated shell scripting, and local) Tj
+T* (network maintenance.) Tj
+ET
+BT
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 131.8112598425199167 Td
+(•  Maintained consistent server uptime through automated cron diagnostics, preemptive disk space monitoring, and offsite log archiving.) Tj
+ET
+BT
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 119.9057480314962731 Td
+(•  Executed systematic security patching schedules across production Linux servers, eliminating exposed service vulnerabilities.) Tj
+ET
+BT
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.137 g
+45.354330708661422 108.0002362204727433 Td
+(•  Designed reliable shell-driven offsite database backup replication routines with automated integrity verification.) Tj
+ET
+BT
+/F1 7.4 Tf
+8.5099999999999998 TL
+0.333 g
+39.6850393700787407 96.0947244094490998 Td
+(Systems: Linux LAMP & LEMP Production Stacks, Apache & Nginx Web Servers, MySQL Database Administration, Bash Shell & Cron Automation Daemons,) Tj
+T* (Physical Routing & Managed Switch Hardware) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.392 g
-42.5196850393700814 109.1340944881889072 Td
-(Systems: Gateway Firewalls & Multi-VLAN Subnetting, Server Virtualization Environments, Relational Database Clusters \(MySQL / PostgreSQL\),) Tj
-T* (Multi-Region Cloud Snapshot Pipelines, Hardware Access Control & Bastion Proxies) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
 0.541 0.541 0.522 rg
-171.0777952755905176 22.6774015748030706 Td
-(Muhammad Adeel Sajjad — Academic Curriculum Vitae   |   Page 1 of 3) Tj
+178.9877952755905142 19.8427559055116944 Td
+(Muhammad Adeel Sajjad — Academic Curriculum Vitae   |   Page 1 of 2) Tj
 ET
 endstream
 endobj
@@ -365,12 +421,20 @@ endobj
 /Parent 1 0 R
 /Resources 2 0 R
 /MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Annots [
+<</Type /Annot /Subtype /Link /Rect [178.635039370078573 722.2679527559055259 349.9243307086612162 712.6301574803148924] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam/wireless-power-transmission-sim) >> >>
+<</Type /Annot /Subtype /Link /Rect [187.1050393700785719 653.1025984251969021 335.5043307086612572 643.4648031496062686] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam/microgrid-resilient-control) >> >>
+<</Type /Annot /Subtype /Link /Rect [279.7150393700785571 583.9372440944881646 431.4043307086611776 574.2994488188976447] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam/battery-ekf-state-estimator) >> >>
+<</Type /Annot /Subtype /Link /Rect [349.9250393700781956 514.7718897637794271 504.1343307086609116 505.1340944881889072] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam/scada-ids-telemetry-engine) >> >>
+<</Type /Annot /Subtype /Link /Rect [217.7650393700785969 445.6065354330708033 361.1943307086613117 435.9687401574802266] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam/quantum-pqc-tls-canary) >> >>
+<</Type /Annot /Subtype /Link /Rect [274.2550393700786344 393.4490551181101523 375.9643307086612936 383.8112598425195756] /Border [0 0 0] /A <</S /URI /URI (https://github.com/Haidriyam) >> >>
+]
 /Contents 6 0 R
 >>
 endobj
 6 0 obj
 <<
-/Length 11863
+/Length 17733
 >>
 stream
 0.8503937007874016 w
@@ -379,894 +443,707 @@ BT
 /F1 8 Tf
 9.1999999999999993 TL
 0.541 0.541 0.522 rg
-42.5196850393700814 813.5435433070865656 Td
+39.6850393700787407 816.3781889763779418 Td
 (MUHAMMAD ADEEL SAJJAD — ACADEMIC CURRICULUM VITAE) Tj
 ET
 BT
 /F1 8 Tf
 9.1999999999999993 TL
 0.541 0.541 0.522 rg
-523.3959055118110655 813.5435433070865656 Td
-([CONT.]) Tj
+506.870551181102428 816.3781889763779418 Td
+(PAGE 2 OF 2) Tj
 ET
 0.85 0.85 0.83 RG
-0.5669291338582678 w
-42.5196850393700814 807.8742519685039269 m
-552.7559055118110791 807.8742519685039269 l
+0.7086614173228347 w
+39.6850393700787407 810.7088976377953031 m
+555.5905511811024553 810.7088976377953031 l
 S
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
-0.067 g
-42.5196850393700814 790.8663779527558972 Td
-(Systems & Web Development Engineer) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
+/F2 9.2 Tf
+10.5799999999999983 TL
 0.09 0.29 0.357 rg
-502.095905511811111 790.8663779527558972 Td
-(2016 — 2019) Tj
-ET
-BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.333 g
-42.5196850393700814 778.1104724409448181 Td
-(Techvision · Systems & Web Engineering — Bahawalpur, Pakistan) Tj
-ET
-BT
-/F1 8.5 Tf
-9.7749999999999986 TL
-0.2 g
-42.5196850393700814 766.7718897637795408 Td
-(Managed production Linux LAMP/LEMP server environments, performing routine security audits, system patching, automated shell) Tj
-T* (scripting, and local network maintenance.) Tj
-ET
-BT
-/F2 7.8 Tf
-8.9699999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 739.559291338582625 Td
-(KEY TECHNICAL CONTRIBUTIONS:) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 729.6380314960629221 Td
-(•  Maintained consistent server uptime through automated cron diagnostics, preemptive disk space monitoring, and offsite log archiving.) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 716.5986614173227736 Td
-(•  Executed systematic security patching schedules across production Linux servers, eliminating exposed service vulnerabilities.) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-48.1889763779527627 703.559291338582625 Td
-(•  Designed reliable shell-driven offsite database backup replication routines with automated integrity verification.) Tj
-ET
-BT
-/F1 7.5 Tf
-8.625 TL
-0.392 g
-42.5196850393700814 686.2679527559055259 Td
-(Systems: Linux LAMP & LEMP Production Stacks, Apache & Nginx Web Servers, MySQL Database Administration, Bash Shell & Cron Automation) Tj
-T* (Daemons, Physical Routing & Managed Switch Hardware) Tj
-ET
-BT
-/F2 9.5 Tf
-10.9249999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 649.9844881889763428 Td
-(5. SELECTED PROJECTS & SYSTEMS) Tj
+39.6850393700787407 794.8348818897637784 Td
+(5. SELECTED PROJECTS & CYBER-PHYSICAL SYSTEMS) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 645.7325196850393922 m
-552.7559055118110791 645.7325196850393922 l
+39.6850393700787407 791.4333070866141497 m
+555.5905511811024553 791.4333070866141497 l
 S
 BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 632.9766141732283131 Td
+39.6850393700787407 779.5277952755905062 Td
 ([PROJECT / WPT-001]  Resonant Inductive Wireless Power Transmission System) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-392.2759055118110609 632.9766141732283131 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+403.1345511811023812 779.5277952755905062 Td
 (Aug 2015 — Jun 2016 / CAPSTONE THESIS) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 621.6380314960629221 Td
-(Domain: Electrical Engineering / Electromagnetic Modeling   |   Claim: Modeled Maxwell equations and coupled-mode theory to design, construct, and evaluate a series-series resonant inductive power link with zero-voltage switching driving topologies.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 610.8663779527558972 Td
-(Modeled Maxwell's equations and coupled-mode theory for near-field electromagnetic energy transfer over variable air gaps \(0–150 mm\).) Tj
-T* (Designed, wound, and tuned helical magnetic induction coils. Developed primary and secondary resonant LC tanks to cancel reactive power) Tj
-T* (and maximize power factor. Fabricated switching driver/inverter hardware with gate-drive isolation. Evaluated transmission efficiency curves,) Tj
-T* (Q factors, and thermal behavior using DSO oscilloscopes, RF power meters, and signal generators. Authored thesis documentation) Tj
-T* (containing mathematical derivations, schematic designs, and empirical performance metrics, defended before the examination board.) Tj
+39.6850393700787407 769.8899999999999864 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 555.5907874015747439 Td
-(Stack: Resonant Induction, LC Tank Matching, Power Electronics, Helical Coils, DSO Metrology, Capstone Thesis) Tj
+0.216 g
+71.7100393700787464 769.8899999999999864 Td
+(Electrical Engineering / Electromagnetic Modeling   •   Technologies: Coupled-Mode Theory, LC Resonant Tanks, ZVS Inverter, Helical Coils) Tj
 ET
 BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F1 7.5 Tf
+8.625 TL
+0.176 g
+39.6850393700787407 759.9687401574802834 Td
+(Modeled Maxwell's equations and coupled-mode theory for near-field electromagnetic energy transfer over variable air gaps \(0–150 mm\). Designed, wound,) Tj
+T* (and tuned helical magnetic induction coils. Developed primary and secondary resonant LC tanks to cancel reactive power and maximize power factor.) Tj
+T* (Fabricated switching driver/inverter hardware with gate-drive isolation. Evaluated transmission efficiency curves, Q factors, and thermal behavior using DSO) Tj
+T* (oscilloscopes, RF power meters, and signal generators. Authored thesis documentation containing mathematical derivations, schematic designs, and) Tj
+T* (empirical performance metrics, defended before the examination board.) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 716.0317322834645211 Td
+(Verification: Galvanic isolation metrology   •   Repository: GitHub / wireless-power-transmission-sim) Tj
+ET
+BT
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 541.4175590551180903 Td
+39.6850393700787407 701.8585039370078675 Td
 ([PROJECT / CPS-001]  MICROGRID RESILIENT CONTROL) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-396.1159055118110928 541.4175590551180903 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+406.7825511811024057 701.8585039370078675 Td
 (2025 / OPEN-SOURCE CPS REPOSITORY) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 530.0789763779526993 Td
-(Domain: Cyber-Physical Systems / Electrical Infrastructure / Control Security   |   Claim: Implements secondary frequency consensus restoration on islanded AC microgrid dynamics resilient to adversarial measurement corruption.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 519.3073228346456744 Td
-(Secondary frequency consensus restoration on islanded AC microgrids under False Data Injection \(FDI\) attacks. Features distributed) Tj
-T* (cooperative control algorithms for inverter-based distributed energy resources \(DERs\), modeling physical frequency droop dynamics coupled) Tj
-T* (with resilient state exchange across communication topologies. Incorporates detection and mitigation of adversarial data corruption targeting) Tj
-T* (consensus communication links.) Tj
+39.6850393700787407 692.2207086614173477 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 474.2364566929133503 Td
-(Stack: Microgrid, Resilient Control, False Data Injection, Consensus Algorithms, Inverter Droop, Cyber-Physical) Tj
+0.216 g
+71.7100393700787464 692.2207086614173477 Td
+(Cyber-Physical Systems / Electrical Infrastructure / Control Security   •   Technologies: Inverter Droop Dynamics \(P-f / Q-V\), Distributed Consensus) Tj
+T* (Graph Theory, Byzantine Resilient Filtering, Python CPS Dynamics Suite) Tj
 ET
 BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F1 7.5 Tf
+8.625 TL
+0.176 g
+39.6850393700787407 673.7955118110236299 Td
+(Secondary frequency consensus restoration on islanded AC microgrids under False Data Injection \(FDI\) attacks. Features distributed cooperative control) Tj
+T* (algorithms for inverter-based distributed energy resources \(DERs\), modeling physical frequency droop dynamics coupled with resilient state exchange) Tj
+T* (across communication topologies. Incorporates detection and mitigation of adversarial data corruption targeting consensus communication links.) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 646.8663779527558972 Td
+(Verification: Bandit SAST security scanning   •   Repository: GitHub / microgrid-resilient-control) Tj
+ET
+BT
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 460.0632283464566967 Td
+39.6850393700787407 632.69314960629913 Td
 ([PROJECT / CPS-002]  BATTERY EKF STATE ESTIMATOR) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-396.1159055118110928 460.0632283464566967 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+406.7825511811024057 632.69314960629913 Td
 (2025 / OPEN-SOURCE CPS REPOSITORY) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 448.7246456692913057 Td
-(Domain: Cyber-Physical Systems / Battery Systems / Embedded Security   |   Claim: Pairs discrete Extended Kalman Filtering with strict CAN-bus frame boundary validation and frame fuzzing to secure battery telemetry against malformed data injection.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 437.952992125984224 Td
-(Discrete Extended Kalman Filter \(EKF\) for Li-ion State-of-Charge estimation combined with boundary-checked CAN-bus telemetry parsing) Tj
-T* (and frame fuzzing. Implements an equivalent circuit model \(Thevenin ECM\) capturing battery polarization dynamics and nonlinear) Tj
-T* (open-circuit voltage curves. Pairs filtering mathematics with defensive embedded software engineering, including frame validation, range) Tj
-T* (boundaries, and fuzzing resistance.) Tj
+39.6850393700787407 623.0553543307086102 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 392.8821259842518998 Td
-(Stack: Battery Systems, Extended Kalman Filter, State of Charge, CAN-Bus, Fuzzing, Embedded Security) Tj
+0.216 g
+71.7100393700787464 623.0553543307086102 Td
+(Cyber-Physical Systems / Battery Systems / Embedded Security   •   Technologies: Discrete Extended Kalman Filter \(EKF\), Equivalent Circuit) Tj
+T* (Model \(Thevenin ECM\), CAN Bus \(ISO 11898\) Parser, Boundary Validation Rules) Tj
 ET
 BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F1 7.5 Tf
+8.625 TL
+0.176 g
+39.6850393700787407 604.6301574803148924 Td
+(Discrete Extended Kalman Filter \(EKF\) for Li-ion State-of-Charge estimation combined with boundary-checked CAN-bus telemetry parsing and frame) Tj
+T* (fuzzing. Implements an equivalent circuit model \(Thevenin ECM\) capturing battery polarization dynamics and nonlinear open-circuit voltage curves. Pairs) Tj
+T* (filtering mathematics with defensive embedded software engineering, including frame validation, range boundaries, and fuzzing resistance.) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 577.7010236220471597 Td
+(Verification: Stochastic convergence verification across noisy drive cycles   •   Repository: GitHub / battery-ekf-state-estimator) Tj
+ET
+BT
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 378.7088976377951894 Td
+39.6850393700787407 563.5277952755905062 Td
 ([PROJECT / CPS-003]  SCADA IDS TELEMETRY ENGINE) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-396.1159055118110928 378.7088976377951894 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+406.7825511811024057 563.5277952755905062 Td
 (2025 / OPEN-SOURCE CPS REPOSITORY) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 367.3703149606298552 Td
-(Domain: Industrial Security / SCADA / OT Security   |   Claim: Performs deep APDU protocol inspection and zero-trust command whitelisting to detect industrial network intrusions and physical boundary violations.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 356.5986614173227167 Td
-(Deep-packet APDU dissector for Modbus TCP/IEC SCADA protocols with zero-trust command whitelisting and substation physical anomaly) Tj
-T* (detection. Inspects industrial network traffic at the application protocol data unit \(APDU\) layer, enforcing zero-trust command policies \(e.g.) Tj
-T* (blocking unauthorized coil writes or register overrides\) and verifying telemetry against physical domain constraints.) Tj
+39.6850393700787407 553.8899999999998727 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 321.7325196850392786 Td
-(Stack: SCADA, Modbus TCP, APDU Inspection, OT Security, Industrial IDS, Zero-Trust) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 307.5592913385825113 Td
-([PROJECT / WPT-002]  WIRELESS POWER TRANSMISSION SIMULATION) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-394.3559055118111019 307.5592913385825113 Td
-(2025 / OPEN-SOURCE NUMERICAL SUITE) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 296.2207086614171203 Td
-(Domain: Electrical Engineering / Electromagnetic Modeling   |   Claim: Provides numerical validation of resonant inductive wireless power transfer dynamics, directly connecting undergraduate capstone hardware with open-source modeling.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 285.4490551181100955 Td
-(Mathematical modeling of resonant magnetic inductive coupling, unloaded Q-factor dynamics, and mutual link efficiency optimization.) Tj
-T* (Developed in Python with automated numerical testing, this repository translates physical electromagnetic hardware experiments into) Tj
-T* (reusable simulation models.) Tj
+0.216 g
+71.7100393700787464 553.8899999999998727 Td
+(Industrial Security / SCADA / OT Security   •   Technologies: Modbus TCP Protocol Parser, APDU Header Dissection, Zero-Trust Command) Tj
+T* (Whitelisting, Physical Domain Rule Engine) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 250.5829133858266005 Td
-(Stack: Wireless Power, Resonant Induction, Numerical Simulation, Coupled-Mode Theory, Q-Factor, Python) Tj
+0.176 g
+39.6850393700787407 535.4648031496062686 Td
+(Deep-packet APDU dissector for Modbus TCP/IEC SCADA protocols with zero-trust command whitelisting and substation physical anomaly detection.) Tj
+T* (Inspects industrial network traffic at the application protocol data unit \(APDU\) layer, enforcing zero-trust command policies \(e.g. blocking unauthorized coil) Tj
+T* (writes or register overrides\) and verifying telemetry against physical domain constraints.) Tj
 ET
 BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 508.5356692913385359 Td
+(Verification: Memory safety fuzzing on malformed MBAP headers and truncated APDU payloads   •   Repository: GitHub / scada-ids-telemetry-engine) Tj
+ET
+BT
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 236.4096850393698332 Td
+39.6850393700787407 494.3624409448818255 Td
 ([PROJECT / SEC-001]  QUANTUM PQC TLS CANARY) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-372.19590551181102 236.4096850393698332 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+384.0585511811024162 494.3624409448818255 Td
 (2025 / OPEN-SOURCE SECURITY REPOSITORY) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 225.0711023622045559 Td
-(Domain: Post-Quantum Cryptography / CPS Security / Network Security   |   Claim: Demonstrates hybrid post-quantum key encapsulation \(ML-KEM-768 + X25519\) to safeguard edge CPS telemetry against long-term Harvest-Now-Decrypt-Later cryptanalytic threats.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 214.2994488188974174 Td
-(NIST FIPS 203 ML-KEM-768 + X25519 hybrid key encapsulation canary protecting edge CPS telemetry against Harvest-Now-Decrypt-Later) Tj
-T* (\(HNDL\) attacks. Explores post-quantum cryptographic primitives on constrained communication channels, measuring overhead, handshake) Tj
-T* (latency, and TLS encapsulation behavior.) Tj
+39.6850393700787407 484.7246456692912489 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 179.4333070866139224 Td
-(Stack: Post-Quantum Cryptography, ML-KEM-768, X25519, Hybrid KEM, Zero-Trust, CPS Telemetry) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 165.2600787401571552 Td
-([PROJECT / SEC-002]  ZERO-TRUST PKI MESH) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-372.19590551181102 165.2600787401571552 Td
-(2025 / OPEN-SOURCE SECURITY REPOSITORY) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 153.9214960629918778 Td
-(Domain: Zero Trust / PKI / Infrastructure Security   |   Claim: Establishes a hardened internal multi-tier X.509 Public Key Infrastructure provisioning cryptographic identities for edge Mutual TLS reverse proxy enforcement.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 143.1498425196847393 Td
-(Internal X.509 Certificate Authority provisioning root, intermediate, and leaf certificates for edge Mutual TLS \(mTLS\) reverse proxy) Tj
-T* (enforcement. Demonstrates multi-tier CA hierarchy management, certificate lifecycle tracking, and hardened Nginx reverse proxy) Tj
-T* (configuration for mutual authentication.) Tj
+0.216 g
+71.7100393700787464 484.7246456692912489 Td
+(Post-Quantum Cryptography / CPS Security / Network Security   •   Technologies: NIST FIPS 203 ML-KEM-768, X25519 Hybrid Key Exchange,) Tj
+T* (Cryptographic Key Derivation \(HKDF\), TLS Canary Instrumentation) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 108.2837007874012443 Td
-(Stack: Zero-Trust, PKI, mTLS, X.509, Nginx, Infrastructure Security) Tj
+0.176 g
+39.6850393700787407 466.2994488188975879 Td
+(NIST FIPS 203 ML-KEM-768 + X25519 hybrid key encapsulation canary protecting edge CPS telemetry against Harvest-Now-Decrypt-Later \(HNDL\)) Tj
+T* (attacks. Explores post-quantum cryptographic primitives on constrained communication channels, measuring overhead, handshake latency, and TLS) Tj
+T* (encapsulation behavior.) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.541 0.541 0.522 rg
-171.0777952755905176 22.6774015748030706 Td
-(Muhammad Adeel Sajjad — Academic Curriculum Vitae   |   Page 2 of 3) Tj
-ET
-endstream
-endobj
-7 0 obj
-<</Type /Page
-/Parent 1 0 R
-/Resources 2 0 R
-/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
-/Contents 8 0 R
->>
-endobj
-8 0 obj
-<<
-/Length 12880
->>
-stream
-0.8503937007874016 w
-0.85 0.85 0.83 RG
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.541 0.541 0.522 rg
-42.5196850393700814 813.5435433070865656 Td
-(MUHAMMAD ADEEL SAJJAD — ACADEMIC CURRICULUM VITAE) Tj
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 439.3703149606298552 Td
+(Verification: Downgrade attack detection test harness   •   Repository: GitHub / quantum-pqc-tls-canary) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.541 0.541 0.522 rg
-523.3959055118110655 813.5435433070865656 Td
-([CONT.]) Tj
-ET
-0.85 0.85 0.83 RG
-0.5669291338582678 w
-42.5196850393700814 807.8742519685039269 m
-552.7559055118110791 807.8742519685039269 l
-S
-BT
-/F2 9 Tf
-10.3499999999999996 TL
+/F2 8.4 Tf
+9.6600000000000001 TL
 0.067 g
-42.5196850393700814 790.8663779527558972 Td
-([PROJECT / INF-001]  GITOPS MESH ORCHESTRATOR) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-339.3959055118110655 790.8663779527558972 Td
-(2025 / OPEN-SOURCE INFRASTRUCTURE REPOSITORY) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 779.5277952755905062 Td
-(Domain: Distributed Systems / Infrastructure / Network Reliability   |   Claim: Orchestrates distributed service discovery and traffic shaping with dynamic TTL leases, token-bucket rate limiting, and zero-trust CIDR ingress inspection.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 768.7561417322834814 Td
-(Service mesh orchestrator featuring dynamic TTL heartbeat leases, round-robin load distribution, token-bucket burst rate-limiting, and CIDR) Tj
-T* (ingress inspection. Built for resilient service discovery and load balancing across multi-node topologies without centralized) Tj
-T* (single-points-of-failure.) Tj
-ET
-BT
-/F1 7.5 Tf
-8.625 TL
-0.431 g
-42.5196850393700814 733.8899999999999864 Td
-(Stack: Service Mesh, GitOps, Load Balancing, Rate Limiting, Distributed Systems, Infrastructure) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 719.7167716535432191 Td
-([PROJECT / SEC-004]  ATTACK SURFACE INTELLIGENCE PIPELINE) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-372.19590551181102 719.7167716535432191 Td
-(2025 / OPEN-SOURCE SECURITY REPOSITORY) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 708.3781889763779418 Td
-(Domain: Cybersecurity / External Attack Surface Management / Security Automation   |   Claim: Automates external attack surface reconnaissance, normalizing multi-source telemetry, scoring exposure vectors, and streaming SIEM-ready security records.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 697.6065354330708033 Td
-(External Attack Surface Management \(EASM\) engine aggregating multi-source reconnaissance data, scoring exposure vectors, and) Tj
-T* (outputting SIEM-ready JSON telemetry. Automates discovery of exposed infrastructure assets, domain names, certificate anomalies, and) Tj
-T* (open network services.) Tj
-ET
-BT
-/F1 7.5 Tf
-8.625 TL
-0.431 g
-42.5196850393700814 662.7403937007873083 Td
-(Stack: EASM, Attack Surface, Threat Intelligence, Reconnaissance, SIEM, DevSecOps) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 648.5671653543306547 Td
-([PROJECT / TEL-002]  Automated SIEM & Telemetry Pipeline) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-420.5959055118110541 648.5671653543306547 Td
-(2025 / ENTERPRISE DEPLOYMENT) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 637.2285826771653774 Td
-(Domain: Enterprise Infrastructure / Security Engineering   |   Claim: Establishes continuous host-level telemetry ingestion and automated security log auditing across distributed Linux nodes with real-time detection rule sets.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 626.4569291338582389 Td
-(Engineered an automated telemetry and security monitoring pipeline using Wazuh HIDS/XDR to ingest host telemetry and audit logs.) Tj
-T* (Configured real-time agent forwarding, kernel auditd integration, log normalization, and alert dispatching across multi-tier enterprise server) Tj
-T* (environments.) Tj
-ET
-BT
-/F1 7.5 Tf
-8.625 TL
-0.431 g
-42.5196850393700814 591.5907874015747439 Td
-(Stack: Wazuh, HIDS / XDR, Linux Auditd, SIEM Telemetry, Log Auditing, Grafana) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 577.4175590551180903 Td
-([PROJECT / SEC-003]  Reverse-Proxy & Perimeter Hardening) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-418.6759055118110382 577.4175590551180903 Td
-(2025 / PERIMETER SPECIFICATION) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 566.0789763779526993 Td
-(Domain: Enterprise Infrastructure / Security Engineering   |   Claim: Hardens web and network perimeters against unauthorized traffic through reverse-proxy isolation, token-bucket rate limiting, and automated cryptographic renewal.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 555.3073228346456744 Td
-(Implemented robust reverse-proxy architectures using Nginx and Apache to isolate backend application nodes. Configured granular rate) Tj
-T* (limiting, Web Application Firewall \(WAF\) rule sets, Certbot automated SSL/TLS provisioning, and TLS configuration tuning to enforce modern) Tj
-T* (cryptographic standards and mitigate threat vectors.) Tj
-ET
-BT
-/F1 7.5 Tf
-8.625 TL
-0.431 g
-42.5196850393700814 520.4411811023621794 Td
-(Stack: Nginx, Apache, WAF, Rate Limiting, Certbot, SSL/TLS, Perimeter Hardening) Tj
-ET
-BT
-/F2 9 Tf
-10.3499999999999996 TL
-0.067 g
-42.5196850393700814 506.2679527559054691 Td
+39.6850393700787407 425.1970866141731449 Td
 ([PROJECT / SYS-004]  Infrastructure Automation & CI/CD Pipelines) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.471 g
-419.8759055118110837 506.2679527559054691 Td
+/F1 7.6 Tf
+8.7399999999999984 TL
+0.431 g
+429.3545511811024653 425.1970866141731449 Td
 (2025 / AUTOMATION WORKFLOWS) Tj
 ET
 BT
-/F1 8 Tf
-9.1999999999999993 TL
+/F2 7.5 Tf
+8.625 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 494.9293700787401349 Td
-(Domain: Enterprise Infrastructure / Distributed Systems   |   Claim: Eliminates manual deployment drift and automates multi-environment synchronization using GitHub Actions, Bash utilities, and secure SSH/FTP pipelines.) Tj
-ET
-BT
-/F1 8.2 Tf
-9.4299999999999979 TL
-0.2 g
-42.5196850393700814 484.1577165354330532 Td
-(Architected automated deployment workflows and infrastructure synchronization pipelines using Bash, Python, and GitHub Actions.) Tj
-T* (Automated secure SSH/FTP delivery, environment health validation, configuration templating, and operational maintenance routines to) Tj
-T* (guarantee reliable application delivery.) Tj
+39.6850393700787407 415.559291338582625 Td
+(Domain: ) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 449.2915748031495582 Td
-(Stack: CI/CD, GitHub Actions, Bash Scripting, Python, SSH Automation, Infrastructure) Tj
+0.216 g
+71.7100393700787464 415.559291338582625 Td
+(Enterprise Infrastructure / Distributed Systems   •   Technologies: GitHub Actions, Bash Shell Scripting, Python Automation, SSH Transport) Tj
 ET
 BT
-/F2 9.5 Tf
-10.9249999999999989 TL
+/F1 7.5 Tf
+8.625 TL
+0.176 g
+39.6850393700787407 405.6380314960629221 Td
+(Architected automated deployment workflows and infrastructure synchronization pipelines using Bash, Python, and GitHub Actions. Automated secure) Tj
+T* (SSH/FTP delivery, environment health validation, configuration templating, and operational maintenance routines to guarantee reliable application delivery.) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.353 g
+39.6850393700787407 387.2128346456692043 Td
+(Verification: Encrypted SSH deployment keys with restricted commands   •   Repository: GitHub / Haidriyam) Tj
+ET
+BT
+/F2 9.2 Tf
+10.5799999999999983 TL
 0.09 0.29 0.357 rg
-42.5196850393700814 426.614409448818833 Td
+39.6850393700787407 368.5041732283464171 Td
 (6. TECHNICAL NOTES & ENGINEERING MONOGRAPHS) Tj
 ET
 0.85 0.85 0.83 RG
 0.8503937007874016 w
-42.5196850393700814 422.3624409448818255 m
-552.7559055118110791 422.3624409448818255 l
-S
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 409.6065354330708033 Td
-([NOTE / TN-001]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-93.5433070866141776 409.6065354330708033 Td
-("Resonant Inductive Coupling: Efficiency, Frequency and Air-Gap Analysis") Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.392 g
-331.5559055118111473 409.6065354330708033 Td
-(\(Electromagnetics & Resonance, TECHNICAL MONOGRAPH\)) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 396.850629921259781 Td
-([NOTE / TN-002]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-93.5433070866141776 396.850629921259781 Td
-("Distributed Network Telemetry and Intrusion Detection") Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.392 g
-326.5159055118111269 396.850629921259781 Td
-(\(Telemetry & Distributed Systems, TECHNICAL MONOGRAPH\)) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 384.0947244094487587 Td
-([NOTE / TN-003]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-93.5433070866141776 384.0947244094487587 Td
-("SCADA Network Security Considerations for Power Infrastructure") Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.392 g
-323.5559055118111473 384.0947244094487587 Td
-(\(Industrial SCADA & CPS Security, TECHNICAL MONOGRAPH\)) Tj
-ET
-BT
-/F2 9.5 Tf
-10.9249999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 362.8348818897637216 Td
-(7. TECHNICAL COMPETENCIES) Tj
-ET
-0.85 0.85 0.83 RG
-0.8503937007874016 w
-42.5196850393700814 358.5829133858267141 m
-552.7559055118110791 358.5829133858267141 l
-S
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 345.8270078740156919 Td
-(Power Systems & Hardware:) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-42.5196850393700814 334.4884251968503008 Td
-(High-Q Resonant Inductive Coupling, Series-Series Tank Compensation, ZVS Inverters, Transmission Fault Studies, Digital Storage) Tj
-T* (Oscilloscopes, Precision LCR Meters, Spectrum Analyzers.) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 305.5750393700786844 Td
-(Infrastructure, Security & Networking:) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.2 g
-42.5196850393700814 294.2364566929132934 Td
-(Linux Kernel Sockets \(SO_RCVBUFFORCE\), AF_PACKET MMAP Ring Buffers, SCADA Modbus-TCP / DNP3 Deep Packet Inspection, IEC) Tj
-T* (62443 Zone Segmentation, Ansible Automation, WireGuard Mesh.) Tj
-ET
-BT
-/F2 9.5 Tf
-10.9249999999999989 TL
-0.09 0.29 0.357 rg
-42.5196850393700814 253.9844881889763428 Td
-(8. VERIFIED CURRICULA & CREDENTIALS) Tj
-ET
-0.85 0.85 0.83 RG
-0.8503937007874016 w
-42.5196850393700814 249.7325196850393354 m
-552.7559055118110791 249.7325196850393354 l
-S
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 236.9766141732283131 Td
-(Packt / Coursera: AWS Certified DevOps Engineer – Professional Specialization) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 236.9766141732283131 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 224.2207086614173477 Td
-(IBM: Introduction to Hardware and Operating Systems) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 224.2207086614173477 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 211.4648031496062686 Td
-(IBM: Introduction to Networking and Storage) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 211.4648031496062686 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 198.7088976377953031 Td
-(IBM: Introduction to Cybersecurity Essentials) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 198.7088976377953031 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 185.952992125984224 Td
-(IBM: Cybersecurity Tools & Cyberattacks) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 185.952992125984224 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 173.1970866141732586 Td
-(Northeastern University: Software Quality Control and Management Parts 1 & 2) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 173.1970866141732586 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 160.4411811023621794 Td
-(University of Leeds: Foundations of Software Testing and Validation) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 160.4411811023621794 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 147.685275590551214 Td
-(Meta: Advanced Programming in Kotlin) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 147.685275590551214 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 134.9293700787401349 Td
-(IBM: Introduction to Software, Programming, and Databases) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 134.9293700787401349 Td
-([Verified Curriculum]) Tj
-ET
-BT
-/F2 8.5 Tf
-9.7749999999999986 TL
-0.067 g
-42.5196850393700814 122.1734645669290558 Td
-(Skillshare / Coursera: Modern Frontend Web Development Specialization) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
-0.208 0.408 0.349 rg
-480.755905511811136 122.1734645669290558 Td
-([Verified Curriculum]) Tj
-ET
-0.85 0.85 0.83 RG
-0.8503937007874016 w
-42.5196850393700814 100.9136220472440613 m
-552.7559055118110791 100.9136220472440613 l
+39.6850393700787407 365.1025984251967884 m
+555.5905511811024553 365.1025984251967884 l
 S
 BT
 /F2 7.8 Tf
 8.9699999999999989 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 353.1970866141732017 Td
+([TN-001]) Tj
+ET
+BT
+/F2 7.8 Tf
+8.9699999999999989 TL
+0.067 g
+90.708661417322844 353.1970866141732017 Td
+("Resonant Inductive Coupling: Efficiency, Frequency and Air-Gap Analysis") Tj
+ET
+BT
+/F3 7 Tf
+8.0499999999999989 TL
 0.392 g
-42.5196850393700814 88.1577165354329964 Td
-(REFERENCES & INSTITUTIONAL VALIDATION:) Tj
+90.708661417322844 343.8427559055117513 Td
+(Category: Electromagnetics & Resonance) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.196 g
+90.708661417322844 336.4726771653542983 Td
+(Rigorous mathematical derivation of coupled magnetic resonance in Series-Series \(SS\) inductive links. Quantifies mutual inductance decay over) Tj
+T* (variable air gaps, establishes the critical coupling threshold separating single-mode and bifurcation regimes, and analyzes conductor AC resistance) Tj
+T* (dissipation.) Tj
+ET
+BT
+/F2 7.8 Tf
+8.9699999999999989 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 306.9923622047243725 Td
+([TN-002]) Tj
+ET
+BT
+/F2 7.8 Tf
+8.9699999999999989 TL
+0.067 g
+90.708661417322844 306.9923622047243725 Td
+("Distributed Network Telemetry and Intrusion Detection") Tj
+ET
+BT
+/F3 7 Tf
+8.0499999999999989 TL
+0.392 g
+90.708661417322844 297.6380314960629221 Td
+(Category: Telemetry & Distributed Systems) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.196 g
+90.708661417322844 290.2679527559054122 Td
+(Architecture of deterministic telemetry ingestion pipelines for cyber-physical infrastructure; kernel socket buffer tuning \(SO_RCVBUFFORCE\),) Tj
+T* (AF_PACKET MMAP ring buffers, and deterministic APDU regex tokenization under burst traffic.) Tj
+ET
+BT
+/F2 7.8 Tf
+8.9699999999999989 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 268.7246456692912489 Td
+([TN-003]) Tj
+ET
+BT
+/F2 7.8 Tf
+8.9699999999999989 TL
+0.067 g
+90.708661417322844 268.7246456692912489 Td
+("SCADA Network Security Considerations for Power Infrastructure") Tj
+ET
+BT
+/F3 7 Tf
+8.0499999999999989 TL
+0.392 g
+90.708661417322844 259.3703149606297984 Td
+(Category: Industrial SCADA & CPS Security) Tj
+ET
+BT
+/F1 7 Tf
+8.0499999999999989 TL
+0.196 g
+90.708661417322844 252.0002362204724022 Td
+(Cyber-physical vulnerability and boundary inspection analysis of unauthenticated industrial fieldbus protocols \(Modbus-TCP, DNP3, IEC 60870-5-104\);) Tj
+T* (prevention of false data injection \(FDI\) and MITM coil forced writes via IEC 62443 zone segmentation.) Tj
+ET
+BT
+/F2 9.2 Tf
+10.5799999999999983 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 225.9214960629921052 Td
+(7. TECHNICAL COMPETENCIES) Tj
+ET
+0.85 0.85 0.83 RG
+0.8503937007874016 w
+39.6850393700787407 222.5199212598425049 m
+555.5905511811024553 222.5199212598425049 l
+S
+BT
+/F2 7.6 Tf
+8.7399999999999984 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 210.6144094488189467 Td
+(Power Systems & Hardware: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.176 g
+144.4130393700787351 210.6144094488189467 Td
+(High-Q Resonant Inductive Coupling, Series-Series Tank Compensation, zero-voltage-switching \(ZVS\) inverters, transmission) Tj
+T* (fault studies, DSO oscilloscopes, precision LCR meters, and spectrum analyzers.) Tj
+ET
+BT
+/F2 7.6 Tf
+8.7399999999999984 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 191.9057480314961595 Td
+(Infrastructure, Security & Networking: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.176 g
+178.5370393700787588 191.9057480314961595 Td
+(Linux kernel sockets \(SO_RCVBUFFORCE\), AF_PACKET MMAP ring buffers, SCADA Modbus-TCP / DNP3 deep) Tj
+T* (packet inspection, IEC 62443 zone segmentation, Ansible automation, and WireGuard mesh.) Tj
+ET
+BT
+/F2 9.2 Tf
+10.5799999999999983 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 164.6931496062992437 Td
+(8. VERIFIED CURRICULA & CREDENTIALS) Tj
+ET
+0.85 0.85 0.83 RG
+0.8503937007874016 w
+39.6850393700787407 161.2915748031497003 m
+555.5905511811024553 161.2915748031497003 l
+S
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 149.3860629921260852 Td
+(Packt / Coursera: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+100.5970393700787469 149.3860629921260852 Td
+(AWS Certified DevOps Engineer –) Tj
+T* (Professional Specialization) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+233.4298582677165541 149.3860629921260852 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+306.1417322834645915 149.3860629921260852 Td
+(IBM: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+323.7097322834645752 149.3860629921260852 Td
+(Introduction to Hardware and Operating Systems) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+499.8865511811024476 149.3860629921260852 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 132.945118110236308 Td
+(IBM: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+57.2530393700787528 132.945118110236308 Td
+(Introduction to Networking and Storage) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+233.4298582677165541 132.945118110236308 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+306.1417322834645915 132.945118110236308 Td
+(IBM: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+323.7097322834645752 132.945118110236308 Td
+(Introduction to Cybersecurity Essentials) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+499.8865511811024476 132.945118110236308 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 123.8742519685040406 Td
+(IBM: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+57.2530393700787528 123.8742519685040406 Td
+(Cybersecurity Tools & Cyberattacks) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+233.4298582677165541 123.8742519685040406 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+306.1417322834645915 123.8742519685040406 Td
+(Northeastern University: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+391.7497322834646525 123.8742519685040406 Td
+(Software Quality Control and) Tj
+T* (Management Parts 1 & 2) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+499.8865511811024476 123.8742519685040406 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 107.4333070866143771 Td
+(University of Leeds: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+110.1730393700787687 107.4333070866143771 Td
+(Foundations of Software Testing and) Tj
+T* (Validation) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+233.4298582677165541 107.4333070866143771 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+306.1417322834645915 107.4333070866143771 Td
+(Meta: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+326.8057322834645788 107.4333070866143771 Td
+(Advanced Programming in Kotlin) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+499.8865511811024476 107.4333070866143771 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+39.6850393700787407 90.9923622047245999 Td
+(IBM: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+57.2530393700787528 90.9923622047245999 Td
+(Introduction to Software, Programming, and) Tj
+T* (Databases) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+233.4298582677165541 90.9923622047245999 Td
+(Verified Curriculum) Tj
+ET
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.09 0.29 0.357 rg
+306.1417322834645915 90.9923622047245999 Td
+(Skillshare / Coursera: ) Tj
+ET
+BT
+/F1 7.2 Tf
+8.2799999999999994 TL
+0.118 g
+381.8857322834646197 90.9923622047245999 Td
+(Modern Frontend Web) Tj
+T* (Development Specialization) Tj
+ET
+BT
+/F1 6.6 Tf
+7.589999999999999 TL
+0.208 0.408 0.349 rg
+499.8865511811024476 90.9923622047245999 Td
+(Verified Curriculum) Tj
+ET
+0.85 0.85 0.83 RG
+0.7086614173228347 w
+39.6850393700787407 70.5829133858269273 m
+555.5905511811024553 70.5829133858269273 l
+S
+BT
+/F2 7.2 Tf
+8.2799999999999994 TL
+0.353 g
+39.6850393700787407 62.6459055118111792 Td
+(REFERENCES & INSTITUTIONAL VALIDATION: ) Tj
+ET
+BT
+/F1 6.8 Tf
+7.8199999999999994 TL
+0.392 g
+201.0370393700787019 62.6459055118111792 Td
+(Academic supervisor recommendations, authenticated degree transcripts, and institutional validation records available) Tj
+T* (immediately upon request during formal evaluation.) Tj
 ET
 BT
 /F1 7.5 Tf
 8.625 TL
-0.431 g
-42.5196850393700814 78.2364566929134071 Td
-(Academic supervisor recommendations, authenticated degree transcripts, and institutional validation records available immediately upon request during) Tj
-T* (formal evaluation.) Tj
-ET
-BT
-/F1 8 Tf
-9.1999999999999993 TL
 0.541 0.541 0.522 rg
-171.0777952755905176 22.6774015748030706 Td
-(Muhammad Adeel Sajjad — Academic Curriculum Vitae   |   Page 3 of 3) Tj
+178.9877952755905142 19.8427559055116944 Td
+(Muhammad Adeel Sajjad — Academic Curriculum Vitae   |   Page 2 of 2) Tj
 ET
 endstream
 endobj
 1 0 obj
 <</Type /Pages
-/Kids [3 0 R 5 0 R 7 0 R ]
-/Count 3
+/Kids [3 0 R 5 0 R ]
+/Count 2
 >>
 endobj
-9 0 obj
+7 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica
@@ -1276,7 +1153,7 @@ endobj
 /LastChar 255
 >>
 endobj
-10 0 obj
+8 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Bold
@@ -1286,7 +1163,7 @@ endobj
 /LastChar 255
 >>
 endobj
-11 0 obj
+9 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-Oblique
@@ -1296,7 +1173,7 @@ endobj
 /LastChar 255
 >>
 endobj
-12 0 obj
+10 0 obj
 <<
 /Type /Font
 /BaseFont /Helvetica-BoldOblique
@@ -1306,7 +1183,7 @@ endobj
 /LastChar 255
 >>
 endobj
-13 0 obj
+11 0 obj
 <<
 /Type /Font
 /BaseFont /Courier
@@ -1316,7 +1193,7 @@ endobj
 /LastChar 255
 >>
 endobj
-14 0 obj
+12 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Bold
@@ -1326,7 +1203,7 @@ endobj
 /LastChar 255
 >>
 endobj
-15 0 obj
+13 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-Oblique
@@ -1336,7 +1213,7 @@ endobj
 /LastChar 255
 >>
 endobj
-16 0 obj
+14 0 obj
 <<
 /Type /Font
 /BaseFont /Courier-BoldOblique
@@ -1346,7 +1223,7 @@ endobj
 /LastChar 255
 >>
 endobj
-17 0 obj
+15 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Roman
@@ -1356,7 +1233,7 @@ endobj
 /LastChar 255
 >>
 endobj
-18 0 obj
+16 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Bold
@@ -1366,7 +1243,7 @@ endobj
 /LastChar 255
 >>
 endobj
-19 0 obj
+17 0 obj
 <<
 /Type /Font
 /BaseFont /Times-Italic
@@ -1376,7 +1253,7 @@ endobj
 /LastChar 255
 >>
 endobj
-20 0 obj
+18 0 obj
 <<
 /Type /Font
 /BaseFont /Times-BoldItalic
@@ -1386,7 +1263,7 @@ endobj
 /LastChar 255
 >>
 endobj
-21 0 obj
+19 0 obj
 <<
 /Type /Font
 /BaseFont /ZapfDingbats
@@ -1395,7 +1272,7 @@ endobj
 /LastChar 255
 >>
 endobj
-22 0 obj
+20 0 obj
 <<
 /Type /Font
 /BaseFont /Symbol
@@ -1408,32 +1285,32 @@ endobj
 <<
 /ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
 /Font <<
-/F1 9 0 R
-/F2 10 0 R
-/F3 11 0 R
-/F4 12 0 R
-/F5 13 0 R
-/F6 14 0 R
-/F7 15 0 R
-/F8 16 0 R
-/F9 17 0 R
-/F10 18 0 R
-/F11 19 0 R
-/F12 20 0 R
-/F13 21 0 R
-/F14 22 0 R
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
 >>
 /XObject <<
 >>
 >>
 endobj
-23 0 obj
+21 0 obj
 <<
 /Producer (jsPDF 4.2.1)
-/CreationDate (D:20260919093901-00'00')
+/CreationDate (D:20260919124710-00'00')
 >>
 endobj
-24 0 obj
+22 0 obj
 <<
 /Type /Catalog
 /Pages 1 0 R
@@ -1442,39 +1319,37 @@ endobj
 >>
 endobj
 xref
-0 25
+0 23
 0000000000 65535 f 
-0000034722 00000 n 
-0000036555 00000 n 
+0000030664 00000 n 
+0000032489 00000 n 
 0000000015 00000 n 
 0000000152 00000 n 
-0000009599 00000 n 
-0000009736 00000 n 
-0000021652 00000 n 
-0000021789 00000 n 
-0000034791 00000 n 
-0000034916 00000 n 
-0000035047 00000 n 
-0000035181 00000 n 
-0000035319 00000 n 
-0000035443 00000 n 
-0000035572 00000 n 
-0000035704 00000 n 
-0000035840 00000 n 
-0000035968 00000 n 
-0000036095 00000 n 
-0000036224 00000 n 
-0000036357 00000 n 
-0000036459 00000 n 
-0000036807 00000 n 
-0000036893 00000 n 
+0000011434 00000 n 
+0000012878 00000 n 
+0000030727 00000 n 
+0000030852 00000 n 
+0000030982 00000 n 
+0000031115 00000 n 
+0000031253 00000 n 
+0000031377 00000 n 
+0000031506 00000 n 
+0000031638 00000 n 
+0000031774 00000 n 
+0000031902 00000 n 
+0000032029 00000 n 
+0000032158 00000 n 
+0000032291 00000 n 
+0000032393 00000 n 
+0000032739 00000 n 
+0000032825 00000 n 
 trailer
 <<
-/Size 25
-/Root 24 0 R
-/Info 23 0 R
-/ID [ <A439313212E13C8AE2E7993B2699A5BC> <A439313212E13C8AE2E7993B2699A5BC> ]
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <3F1D561B5CD5EC0EE6A32822DCDBAAAE> <3F1D561B5CD5EC0EE6A32822DCDBAAAE> ]
 >>
 startxref
-36997
+32929
 %%EOF
