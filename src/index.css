@@ -1,0 +1,126 @@
+@import "tailwindcss";
+
+@theme {
+  --color-canvas: #F7F7F5;
+  --color-ink: #111111;
+  --color-ink-muted: #666666;
+  --color-ink-subtle: #8A8A85;
+  --color-edge: #D9D9D4;
+  --color-edge-light: #EBEBE6;
+  --color-edge-dark: #B8B8B0;
+  --color-accent: #174A5B;
+  --color-accent-hover: #103440;
+  --color-accent-secondary: #356859;
+  --color-code-bg: #171717;
+  --color-code-fg: #EDEDED;
+  --color-surface: #FFFFFF;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  --font-sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+@layer base {
+  html {
+    font-family: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background-color: #F7F7F5;
+    color: #111111;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  code, kbd, samp, pre, .font-mono {
+    font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  }
+}
+
+/* Touch and scroll container behaviors */
+.diagram-scroll,
+.table-scroll,
+.code-scroll {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #D9D9D4 transparent;
+}
+
+.diagram-scroll::-webkit-scrollbar,
+.table-scroll::-webkit-scrollbar,
+.code-scroll::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+
+.diagram-scroll::-webkit-scrollbar-track,
+.table-scroll::-webkit-scrollbar-track,
+.code-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.diagram-scroll::-webkit-scrollbar-thumb,
+.table-scroll::-webkit-scrollbar-thumb,
+.code-scroll::-webkit-scrollbar-thumb {
+  background-color: #D9D9D4;
+  border-radius: 2px;
+}
+
+/* Academic print stylesheet */
+@page {
+  margin: 14mm 15mm;
+  size: auto;
+}
+
+@media print {
+  .site-header,
+  .site-footer,
+  .no-print,
+  nav,
+  button,
+  aside {
+    display: none !important;
+  }
+
+  html,
+  body,
+  #root,
+  main {
+    background-color: #ffffff !important;
+    background-image: none !important;
+    color: #111111 !important;
+    font-size: 10pt;
+    line-height: 1.45;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    box-shadow: none !important;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .print-page {
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    background: #ffffff !important;
+  }
+
+  .cv-item,
+  .break-inside-avoid {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  h1, h2, h3, h4 {
+    break-after: avoid !important;
+    page-break-after: avoid !important;
+  }
+
+  a {
+    text-decoration: none !important;
+    color: inherit !important;
+  }
+}
