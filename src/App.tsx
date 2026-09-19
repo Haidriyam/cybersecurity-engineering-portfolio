@@ -5,6 +5,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { PERSONAL_INFO, PROJECTS, TECHNICAL_NOTES } from './data/dossierData';
@@ -301,6 +302,9 @@ export default function App() {
 
       {/* Global Footer */}
       <Footer onNavigate={navigate} />
+      
+      {/* Vercel Web Analytics */}
+      <Analytics />
     </div>
   );
 }
